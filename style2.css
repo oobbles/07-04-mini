@@ -1,0 +1,25 @@
+.column{
+  width: 225px;
+  float: left;
+}
+
+.line{
+  border-left: 1px solid rgba(0, 0, 0, 0.11);
+  height: 100%;
+  float: left;
+}
+
+.column img{
+  width: 200px;
+}
+
+h2{
+  font-style: italic;
+  margin: 0;
+  line-height: 95%;
+}
+
+.parent{
+  height: 380px;
+  overflow: hidden;
+}
