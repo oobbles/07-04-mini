@@ -1,0 +1,46 @@
+.parent{
+  width: 500px;
+}
+.text{
+  float: left;
+  width: 75%;
+}
+.byline{
+  float: left;
+  width: 100%;
+}
+
+.image{
+  float: left;
+  width: 25%;
+
+}
+
+h2{
+  font-size: 10px;
+  color: grey;
+  margin: 0;
+  float: left;
+}
+
+#red{
+  color: red;
+  font-size: 8px;
+  font-family: sans-serif;
+  float: left;
+  margin-top: 3px;
+  margin-left: 3px;
+  }
+
+p {
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+  font-size: 21px;
+}
+img{
+  max-width:88%;
+  display: block;
+}
