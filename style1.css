@@ -1,0 +1,27 @@
+p{
+  margin: 0;
+}
+.top{
+  float: left;
+  width: 200px;
+}
+.bottom{
+  float: left;
+  margin: 0;
+}
+h1{
+  font-style: italic;
+  margin: 0;
+  line-height: 95%;
+}
+.comment{
+  font-family: sans-serif;
+  font-size: small;
+  color: blue;
+  margin: 0;
+}
+.byline{
+  text-transform: uppercase;
+  font-size: small;
+  color: grey;
+}
