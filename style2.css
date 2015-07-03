@@ -1,6 +1,8 @@
 .column{
-  width: 225px;
+  width: 200px;
   float: left;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 .line{
@@ -22,4 +24,8 @@ h2{
 .parent{
   height: 380px;
   overflow: hidden;
+}
+
+p{
+  margin: 0;
 }
