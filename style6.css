@@ -32,10 +32,10 @@ figure{
   border:0;
   margin:0;
   padding:0;
-  }
+}
 
-  figcaption{
-    font-size: 10px;
-    color:blue;
-    font-family: sans-serif;
-  }
+figcaption{
+  font-size: 10px;
+  color:blue;
+  font-family: sans-serif;
+}
