@@ -1,0 +1,45 @@
+#example{
+  width: 650px;
+  padding: 20px;
+}
+div{
+  background-color: #333333;
+  width: 650px;
+  height: 190px;
+}
+
+.yellow{
+  color: rgb(202, 174, 34);
+  margin:0;
+  position: absolute;
+  bottom: 425px;
+}
+
+.column-left{
+  float: left;
+  width: 33%;
+  margin-left: 6px;
+}
+
+.column-right{
+  float: right;
+  width: 33%;
+}
+
+.column-center{
+  display: inline-block;
+  width: 33%;
+}
+
+h2{
+  color: white;
+  font: 400 22px Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 0;
+}
+p{
+  font: 100 13px Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
+  line-height: 22px;
+  letter-spacing: 1px;
+  padding-right: 18px;
+}
