@@ -1,0 +1,41 @@
+.box {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  margin: 0 4px;
+}
+
+#example{
+  width: 400px;
+  padding: 20px;
+}
+
+.top{
+  font-family: sans-serif;
+  margin: 0px 0px 5px 4px;
+  float:left;
+}
+.right{
+  font-family: sans-serif;
+  margin: 5px 0 -4px 0;
+  color: grey;
+  float:right;
+  font-size: 10px;
+}
+
+div{
+  width:414px;
+}
+
+figure{
+  display:inline-block;
+  border:0;
+  margin:0;
+  padding:0;
+  }
+
+  figcaption{
+    font-size: 10px;
+    color:blue;
+    font-family: sans-serif;
+  }
